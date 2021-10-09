@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=oualiS&show_icons=true&hide_border=true&theme=tokyonight
+<img src="https://github-readme-stats.vercel.app/api?username=oualiS&show_icons=true&hide_border=true&theme=tokyonight" alt="Logo" width="80" height="80">
 
 <!--
 **OualiS/OualiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
