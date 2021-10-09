@@ -1,4 +1,7 @@
+<img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="Logo">
+
 <img src="https://github-readme-stats.vercel.app/api?username=oualiS&show_icons=true&hide_border=true&theme=tokyonight" alt="Logo">
+
 
 <!--
 **OualiS/OualiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
