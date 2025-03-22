@@ -1,4 +1,4 @@
-### 👋 Salut, moi c'est [Ton Nom] !
+### 👋 Salut, moi c'est Salah !
 
 Passionné par le développement web et les nouvelles technologies, je travaille principalement avec **Node.js, JavaScript, TypeScript, React, Vue.js, Laravel et Kubernetes**. 🚀
 
@@ -53,5 +53,3 @@ Passionné par le développement web et les nouvelles technologies, je travaille
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TonProfil)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TonProfil)
-
-💡 **Toujours à la recherche de nouveaux challenges !** 🚀
