@@ -21,15 +21,15 @@ Passionné par le développement web et les nouvelles technologies, je travaille
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TonUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=OualiS&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=TonUsername&theme=radical" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=OualiS&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oualis&layout=compact&theme=radical)
 
 ---
 
